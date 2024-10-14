@@ -11,54 +11,61 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biology, Neuroscience concentration, Lehigh University, 2025 (expected)
+* M.S. in Biology, with distinction, California State University Fresno, 2019
+* B.S. in Biology, California State University Fresno, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Assistant, 08/2019---Present
+  * Lehigh University
+  %* Thesis title: ""
+  * Supervisor: Julie S. Haas, PhD.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant, 08/2017---07/2019
+  * California State University Fresno
+  * Thesis title: "Modelling Perception, Learning and Memory in Ant Visual Navigation"
+  * Supervisor: David D. Lent, PhD.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Awards
+======
+Lehigh University Thorne Fellowship, Fall 2022
+Lehigh University College of Arts and Sciences Summer Fellowship, Summer 2022
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Computational modelling and neural data analysis
+
+Expertise in excitable (Hodgkin-Huxley) neural point models
+
+Programming:
+  * Julia
+  * Matlab
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
+Posters
+======
+  <ul>{% for post in site.posters reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+%Service and leadership
+%======
+
