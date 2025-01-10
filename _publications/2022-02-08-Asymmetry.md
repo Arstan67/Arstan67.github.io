@@ -6,6 +6,6 @@ excerpt: 'Asymmetry, or unequal transmission of current between two coupled neur
 date: 2022-02-08
 venue: 'eNeuro'
 paperurl: 'https://www.eneuro.org/content/9/2/ENEURO.0469-21.2022'
-citation: 'Austin J. mendoza and Julie S. Haas. (2022). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Austin J. mendoza and Julie S. Haas. (2022). &quot;Intrinsic Sources and Functional Impacts of Asymmetry at Electrical Synapses.&quot; <i>eNeuro</i>. 9 (2). DOI:'
 ---
 

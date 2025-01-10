@@ -1,11 +1,11 @@
 ---
 title: "Cell-specific inhibitory modulation of sound processing in the auditory thalamus"
 collection: publications
-permalink: /publication/2024-06-20-Cell-specific.md
+permalink: /publication/2024-06-20-Cell-specific
 excerpt: 'Inhibition along the auditory pathway is crucial for processing of acoustic information. Within the auditory thalamus, a key region in the central auditory pathway, inhibition is provided by the thalamic reticular nucleus (TRN), comprised of two large classes of inhibitory neurons, parvalbumin (PVTRN) and somatostatin (SSTTRN) positive. In the auditory cortex, PV and SST neurons differentially shape auditory processing. We found that the ventral MGB, the thalamic region in the direct ascending auditory pathway, receives inputs predominantly from PVTRN neurons, whereas SSTTRN neurons project to the dorso-medial regions of MGB. Consistently, inactivating PVTRN neurons increased sound-evoked activity in over a third of neurons in the vMGB, with another large fraction of neurons being suppressed. By contrast, inactivating SSTTRN neuronal activity largely reduced tone-evoked activity in vMGB neurons. Cell type-specific computational models revealed candidate circuit mechanisms for generating the bi-directional effects of TRN inactivation on MGB sound responses. These differential inhibitory pathways within the auditory thalamus suggest a cell-specific role for thalamic inhibition in auditory computation and behavior.'
 date: 2024-06-20
 venue: 'BioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2024.06.29.601250v1'
-citation: 'S. Rolón-Martínez, A.J. Mendoza, C.F. Angeloni, R. Chen, J.S. Haas, M.N. Geffen. (2024). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'S. Rolón-Martínez, A.J. Mendoza, C.F. Angeloni, R. Chen, J.S. Haas, M.N. Geffen. (2024). &quot;Cell-specific inhibitory modulation of sound processing in the auditory thalamus.&quot; <i>BioRxiv</i>. DOI:'
 ---
 
