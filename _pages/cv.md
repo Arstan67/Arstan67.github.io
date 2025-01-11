@@ -19,7 +19,7 @@ Work experience
 ======
 * Research Assistant, 08/2019---Present
   * Lehigh University
-  %* Thesis title: ""
+  * Thesis title: ""
   * Supervisor: Julie S. Haas, PhD.
 
 * Research Assistant, 08/2017---07/2019
@@ -30,6 +30,7 @@ Work experience
 Awards
 ======
 Lehigh University Thorne Fellowship, Fall 2022
+
 Lehigh University College of Arts and Sciences Summer Fellowship, Summer 2022
 
 Skills
@@ -53,19 +54,4 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-
-Posters
-======
-  <ul>{% for post in site.posters reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-%Service and leadership
-%======
 
