@@ -12,7 +12,7 @@ title                    : "Austin J. Mendoza / Computational Neuroscience"
 title_separator          : "-"
 name                     : &name "Austin J. Mendoza"
 description              : &description "personal description"
-url                      : https://arstan67.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://austinmendoza.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Arstan67/Arstan67.github.io"
 
