@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+You can download a PDF copy of my CV [here](/files/pdf/Mendoza_CV.pdf).
+
 {% include base_path %}
 
 Education

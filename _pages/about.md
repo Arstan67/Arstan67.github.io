@@ -12,3 +12,6 @@ I am in the process of completing my Ph.D. investigating electrially coupled net
 More info about my research interests and computational models can be found in the [research](research) section. 
 
 My research papers can be found listed in the [publications](publications) section.
+My research has also been featured in Lehigh University news articles in the [publicity](publicity) section.
+I have presented at Society for Neuroscience and Organization for Computational Neurosciences conferences, listed in the [talks](talks) section.
+A copy of my CV can be downloaded from the [CV](CV) section.
