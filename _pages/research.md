@@ -7,11 +7,13 @@ author_profile: true
 Thalamocortical circuit
 ======
 
-Information from the sensory surround transmitts through the nuclei of the thalamus _en route_ to the cortex. 
+Information from the sensory surround transmits through the nuclei of the thalamus _en route_ to the cortex. 
 The thalmic reticular nucleus sits between these structures and shapes thalamic activity through the inhibitory synapses sent to thalamus.
 
-<iframe src="/files/images/TRN_circuit.png" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<img src="/files/images/TRN_circuit.png" width="500">
+
 _credit: Julie Haas_
+
 
 Electrical synapses
 ======
@@ -35,7 +37,7 @@ Neuron spiking is simulated from the biophysics of the sodium and potassium ion 
 
 The simplest example is shown here:
 
-<iframe src="/files/images/HHmodel.jpg" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<img src="/files/images/HHmodel.jpg">
 
 A basic solving interface for this system could be written as:
 
